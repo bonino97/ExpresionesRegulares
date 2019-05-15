@@ -1,0 +1,9 @@
+C:\Users\jbonino\Desktop\Utilidades\Desarrollo\Desarrollo Personal\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\ExpresionesRegulares.exe.config
+C:\Users\jbonino\Desktop\Utilidades\Desarrollo\Desarrollo Personal\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\ExpresionesRegulares.exe
+C:\Users\jbonino\Desktop\Utilidades\Desarrollo\Desarrollo Personal\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\ExpresionesRegulares.pdb
+C:\Users\jbonino\Desktop\Utilidades\Desarrollo\Desarrollo Personal\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.csprojResolveAssemblyReference.cache
+C:\Users\jbonino\Desktop\Utilidades\Desarrollo\Desarrollo Personal\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.Form1.resources
+C:\Users\jbonino\Desktop\Utilidades\Desarrollo\Desarrollo Personal\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.Properties.Resources.resources
+C:\Users\jbonino\Desktop\Utilidades\Desarrollo\Desarrollo Personal\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.csproj.GenerateResource.Cache
+C:\Users\jbonino\Desktop\Utilidades\Desarrollo\Desarrollo Personal\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.exe
+C:\Users\jbonino\Desktop\Utilidades\Desarrollo\Desarrollo Personal\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.pdb
